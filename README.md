@@ -24,7 +24,7 @@ Instructions for use:
   - CUT&RUN data for V5-tagged zfp574
   - PRO-Seq data after rapid depletion of zfp574 (AID cell-line)
 
-2/ The "Figures" section contains the scripts to reproduce the figures from the article, starting from the different data tables generated in the previous section.
+2/ The "Figures" section contains the scripts to reproduce the figures from the article, starting from the different data tables generated in the previous section and are also available on GEO (GSE225972) or in the supplementary tables of the article.
 
 3/ The "Supplementary Figures" section contain the scripts to reproduce the supplementary figures, starting from the data tables generated in section 1.
 
