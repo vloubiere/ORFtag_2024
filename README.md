@@ -19,10 +19,10 @@ Instructions for use:
 
 1/ The "Data processing" section contains the scripts that were used to process the raw NGS sequencing data that was deposited on GEO (GSE225972), corresponding to:
   - Three different functional ORFtag screens in mouse ESCs (activator, repressor, PTGR)
-  - Frame-specific activator ORFtag screen
+  - Frame-specific activator ORFtag screens
   - ORFtag RNA-Seq reads used to assess the frame of transcripts (activator screen)
-  - CUT&RUN data for V5-tagged zfp574
-  - PRO-Seq data after rapid depletion of zfp574 (AID cell-line)
+  - CUT&RUN data for V5-tagged Zfp574
+  - PRO-Seq data after rapid depletion of Zfp574 (AID cell-line)
 
 2/ The "Figures" section contains the scripts to reproduce the figures from the article, starting from the different data tables generated in the previous section and are also available on GEO (GSE225972) or in the supplementary tables of the article.
 
