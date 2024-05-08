@@ -2,7 +2,7 @@
 
 This repository contains all custom scripts supporting the conclusions of the study entitled "Proteome-scale tagging and functional screening in mammalian cells by ORFtag". Nature Methods, 2024.
 
-Authors: Filip Nemčko†, Moritz Himmelsbach†, Vincent Loubiere, Ramesh Yelagandula, Michaela Pagani, Nina Fasching, Julius Brennecke#, Ulrich Elling5#, Alexander Stark#, Stefan L. Ameres#. 
+Authors: Filip Nemčko†, Moritz Himmelsbach†, Vincent Loubiere, Ramesh Yelagandula, Michaela Pagani, Nina Fasching, Julius Brennecke#, Ulrich Elling#, Alexander Stark#, Stefan L. Ameres#. 
 † These authors contributed equally. # Corresponding authors.
 
 System requirements:
