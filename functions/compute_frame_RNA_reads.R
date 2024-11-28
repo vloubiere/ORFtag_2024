@@ -69,7 +69,7 @@ ovExon <- ov[, .(seqnames, start, end, frame, count, strand,
 # Overlaps with other features
 ovFeat <- dat[!(readID %in% ov$readID)]
 setorderv(trup, "type")
-ovFeat[trup, type:= i.type, on= c("seqnames", "start<=end", "end>=start", "strand"), mult= "first"]
+ovFeat[trup, type:= i.type, on= c("seqnames", "start<=end", "end>=start", "strand")]
 ovFeat[is.na(type), type:= "intergenic"]
 
 # Final object
